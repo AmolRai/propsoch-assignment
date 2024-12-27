@@ -1,0 +1,21 @@
+.map__container {
+  width: 100%;
+  height: 300px;
+  margin-top: 1rem;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.view__map {
+  background-color: #fee3cd;
+  width: 100%;
+  color: #ff7504;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  padding: 5px;
+}
